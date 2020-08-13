@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="408ed96d-40ed-4118-8bc3-33c9df996eca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YPHVGr9JDSFpwchcC31ARcBN0X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Ambiente de Trabalho/Universidade/SD/Projeto/jjwt-master" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="edu.ufp.inf.sd.rmi.observer.client" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.ufp.inf.sd.projeto.util" />
+      <recent name="edu.ufp.inf.sd.rabbit.pubsub.chatgui" />
+      <recent name="edu.ufp.inf.sd.rmi.visitor.client" />
+      <recent name="edu.ufp.inf.sd.rmi.visitor.server" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ruima\OneDrive\SD\test\Books" />
+      <recent name="C:\Users\ruima\OneDrive\SD\src\edu\ufp\inf\sd\rabbit\topics\runscripts" />
+      <recent name="C:\Users\ruima\OneDrive\SD\src\edu\ufp\inf\sd\rabbit\topics" />
+      <recent name="C:\Users\ruima\OneDrive\SD\src\edu\ufp\inf\sd\projeto" />
+      <recent name="C:\Users\ruima\OneDrive\SD\src\edu\ufp\inf\sd\rabbit\pubsub\runscripts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Worker">
+    <configuration name="NewTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.ufp.inf.sd.rabbit.workqueues.producer.NewTask" />
+      <module name="SD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ufp.inf.sd.rabbit.workqueues.producer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObserverGuiClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.ufp.inf.sd.rabbit.pubsub.chatgui.ObserverGuiClient" />
+      <module name="SD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ufp.inf.sd.rabbit.pubsub.chatgui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Worker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.ufp.inf.sd.rabbit.workqueues.consumer.Worker" />
+      <module name="SD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ufp.inf.sd.rabbit.workqueues.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Worker" />
+        <item itemvalue="Application.NewTask" />
+        <item itemvalue="Application.ObserverGuiClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="408ed96d-40ed-4118-8bc3-33c9df996eca" name="Default Changelist" comment="" />
+      <created>1582837330636</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582837330636</updated>
+      <workItem from="1582837333282" duration="459000" />
+      <workItem from="1582837807592" duration="22000" />
+      <workItem from="1582837842722" duration="61000" />
+      <workItem from="1582838293047" duration="9000" />
+      <workItem from="1582933497129" duration="2000" />
+      <workItem from="1583165218074" duration="6206000" />
+      <workItem from="1583184518432" duration="1190000" />
+      <workItem from="1583435280055" duration="1458000" />
+      <workItem from="1583493078188" duration="32000" />
+      <workItem from="1583770150249" duration="5447000" />
+      <workItem from="1584365452909" duration="13626000" />
+      <workItem from="1584618066623" duration="198000" />
+      <workItem from="1584620485409" duration="5172000" />
+      <workItem from="1584627944272" duration="44000" />
+      <workItem from="1584644361919" duration="952000" />
+      <workItem from="1584646294154" duration="1146000" />
+      <workItem from="1584962847470" duration="3833000" />
+      <workItem from="1584975132740" duration="6956000" />
+      <workItem from="1585580756643" duration="6119000" />
+      <workItem from="1585934200381" duration="10000" />
+      <workItem from="1586182313653" duration="772000" />
+      <workItem from="1587218191289" duration="38000" />
+      <workItem from="1587398385916" duration="1383000" />
+      <workItem from="1587417727474" duration="11000" />
+      <workItem from="1587734735434" duration="69000" />
+      <workItem from="1588000827669" duration="4873000" />
+      <workItem from="1588345881759" duration="19000" />
+      <workItem from="1588605041970" duration="5469000" />
+      <workItem from="1588758591349" duration="2558000" />
+      <workItem from="1588796300558" duration="1256000" />
+      <workItem from="1588800088858" duration="1201000" />
+      <workItem from="1588804605133" duration="1418000" />
+      <workItem from="1588882185836" duration="1503000" />
+      <workItem from="1588891036847" duration="624000" />
+      <workItem from="1588893441475" duration="12000" />
+      <workItem from="1588894658953" duration="669000" />
+      <workItem from="1588955423244" duration="2601000" />
+      <workItem from="1589032694527" duration="7556000" />
+      <workItem from="1589040950923" duration="77000" />
+      <workItem from="1589067006561" duration="165000" />
+      <workItem from="1589202103029" duration="4385000" />
+      <workItem from="1589210143252" duration="6030000" />
+      <workItem from="1589271359416" duration="15728000" />
+      <workItem from="1589298659095" duration="3866000" />
+      <workItem from="1589364594979" duration="13000" />
+      <workItem from="1589814972208" duration="2326000" />
+      <workItem from="1590054095887" duration="9156000" />
+      <workItem from="1590066096240" duration="10533000" />
+      <workItem from="1590511964162" duration="24000" />
+      <workItem from="1590520957307" duration="14458000" />
+      <workItem from="1590686093737" duration="5608000" />
+      <workItem from="1590700979595" duration="16942000" />
+      <workItem from="1590847971532" duration="9801000" />
+      <workItem from="1590860881708" duration="11519000" />
+      <workItem from="1591019395878" duration="7428000" />
+      <workItem from="1591034580587" duration="3256000" />
+      <workItem from="1591455597153" duration="2825000" />
+      <workItem from="1591484079376" duration="27000" />
+      <workItem from="1591484277811" duration="37000" />
+      <workItem from="1591620526009" duration="4893000" />
+      <workItem from="1592063928536" duration="25000" />
+      <workItem from="1592319703162" duration="23000" />
+      <workItem from="1592319787485" duration="4695000" />
+      <workItem from="1592347518225" duration="4000" />
+      <workItem from="1592496313829" duration="20000" />
+      <workItem from="1592831422597" duration="17187000" />
+      <workItem from="1592874498626" duration="326000" />
+      <workItem from="1592874839646" duration="6476000" />
+      <workItem from="1592904263894" duration="682000" />
+      <workItem from="1596757901567" duration="19000" />
+      <workItem from="1597332262388" duration="212000" />
+      <workItem from="1597332504953" duration="294000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1592876169320">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1592876169320" />
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590712469175">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1590712469175" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1592874638247">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592874638247" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1589038077524">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589038077524" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1589038077524">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589038077524" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1589038077524">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589038077524" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1589038077524">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589038077524" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1592874825275">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592874825275" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1597332551296">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1588758590456" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1597332551296" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1590705847341">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1590705847341" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1590710569375">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1590710569375" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/edu/ufp/inf/sd/projeto/server/TaskGroupSessionRI.java</url>
+          <line>17</line>
+          <properties class="edu.ufp.inf.sd.projeto.server.TaskGroupSessionRI" method="createTask">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
